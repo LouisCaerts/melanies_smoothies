@@ -10,6 +10,7 @@ version = "0.0.1"
 description = ""
 dependencies = [
     "streamlit[snowflake]"
+    "streamlit"
 ]
 
 [tool.uv]
